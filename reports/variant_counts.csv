@@ -1,0 +1,7 @@
+caller,type,count
+GATK,SNP,842
+GATK,INDEL,195
+GATK,OTHER,5
+FreeBayes,SNP,829
+FreeBayes,INDEL,171
+FreeBayes,OTHER,18

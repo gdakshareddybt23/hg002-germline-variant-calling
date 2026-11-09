@@ -1,0 +1,18 @@
+name: hg002-variants
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.11
+  - fastqc
+  - fastp
+  - multiqc
+  - bwa
+  - samtools
+  - bcftools
+  - htslib
+  - gatk4
+  - freebayes
+  - rtg-tools
+  - pandas
+  - matplotlib

@@ -1,0 +1,4 @@
+3ee1418353a681cbd415a278ecc0bd9579121eac2bc483448ab78ca679840101  data/reference/chr20_slice.fasta
+18bd4ba6deb88ab15b996894229271903242bc0bf936a24481c1ee4b9e091478  data/reads/HG002_R1.fastq.gz
+d37e5aa268b21a171668053a6075b13fceab5aabd0ecee7066fb190fb0e23bdf  data/reads/HG002_R2.fastq.gz
+ce11942dbc99c4b465806ada8e24fcbb5f6c75a011ae4ce019056785dcccd850  data/truth/HG002.benchmark.vcf.gz

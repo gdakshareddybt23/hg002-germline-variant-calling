@@ -1,0 +1,13 @@
+name: variantcalling
+channels:
+  - conda-forge
+dependencies:
+  - samtools
+  - bcftools
+  - python=3.11
+  - multiqc
+  - bwa
+  - fastqc
+  - freebayes
+  - gatk4
+  - fastp

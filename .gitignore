@@ -1,0 +1,32 @@
+# Sequence data and all heavyweight derived analysis files stay local
+/data/
+/results/
+*.bam
+*.bai
+*.cram
+*.crai
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.vcf
+*.vcf.gz
+*.vcf.gz.tbi
+*.vcf.gz.csi
+*.fasta
+*.fa
+*.fai
+*.dict
+*.sdf/
+*.zip
+*.log
+*.html
+*.pdf
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# Local VEP downloads and Windows metadata
+/*.tsv.gz
+*:Zone.Identifier
+*.bak
